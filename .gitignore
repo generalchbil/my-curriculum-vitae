@@ -1,0 +1,17 @@
+wp-config.php
+.idea/*
+sourcefiles/*/.DS_Store
+sourcefiles/uploads
+sourcefiles/plugins/*
+sourcefiles/cache
+.idea/
+.htaccess
+
+
+# OS generated files #
+######################
+sourcefiles/.DS_Store
+imports/.DS_Store
+.DS_Store
+.DS_Store?
+/get_dev_env.sh
